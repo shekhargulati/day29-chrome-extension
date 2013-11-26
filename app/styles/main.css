@@ -1,0 +1,16 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+
+html {
+    /* Defaults css for cssmin process */
+}
+
+body {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Helvetica",Arial,sans-serif;
+  margin-top: 0;
+}
+
+h1,h2 {
+  margin: 10px;
+}
